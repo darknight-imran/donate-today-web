@@ -1,0 +1,263 @@
+/* google-fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sevillana&display=swap');
+
+.inter-fonts {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    margin: 0 0 0 0;
+}
+
+/* other font */
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Shred style */
+.max-width {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.top-space {
+    margin-top: 130px;
+}
+
+.btn-primary {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: white;
+    padding: 12px 35px;
+    background-color: #46d89f;
+    margin-right: 30px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.description {
+    font-size: 1rem;
+    color: #707070;
+    margin-top: 20px;
+}
+
+.section-title {
+    font-size: 2.8125rem;
+    margin: 0;
+}
+
+.section-description {
+    padding: 0 400px;
+}
+
+.element-bottom {
+    margin-bottom: 50px;
+}
+
+/* nav related style*/
+.navbar {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin-left: 30px;
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+.nav-element {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-title {
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+#nav-title {
+    color: #46d89f;
+}
+
+/* banner related style */
+.banner {
+    margin-top: 100px;
+}
+
+.banner-item {
+    margin-left: 100px;
+    align-items: flex-start;
+}
+
+.banner-title {
+    font-size: 4.0625rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* .Donate Today related styles */
+.donate-today-container {
+    margin-top: 50px;
+}
+
+.donate-items {
+    gap: 22px;
+    justify-content: center;
+}
+
+.donate-item {
+    background-color: #FAFAFA;
+    padding: 44px 24px;
+    border-radius: 5px;
+}
+
+.donate-element {
+    margin: 0;
+    font-size: 1.50rem;
+    color: #707070;
+}
+
+.seconday-donate-item {
+    background-color: #46d8a055;
+    border: 2px solid #46d89f;
+}
+
+.secondary-donate-element {
+    color: #46d89f;
+}
+
+.other-amount {
+    font-size: 1rem;
+    color: #B3B3B3;
+}
+
+.hr-line {
+    border: 1px solid #DADADA;
+    width: 710px;
+}
+
+/* our donate plan related styles */
+.donate-plan-items {
+    gap: 24px;
+}
+
+.donate-plan-item {
+    background-color: #46d8a018;
+    padding: 80px 20px 40px 20px;
+    border-radius: 5px;
+}
+
+.donate-plan-item-title {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+.second {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.third {
+    background-color: rgba(194, 243, 185, 0.635);
+}
+
+/* No more Homeless related styles */
+.homeless-items {
+    align-items: center;
+}
+
+/* Give Someone’s Life By Giving Of Yours related styles */
+.giving-items {
+    align-items: center;
+}
+
+.giving-element {
+    margin-right: 230px;
+}
+
+/* Take charge of every donation related styles */
+.fundraiser-items {
+    align-items: center;
+}
+
+.fundraiser-item {
+    padding-right: 80px;
+}
+
+/* best tools and platforms related styles */
+.platform-items {
+    align-items: center;
+}
+
+/* why donately related style */
+.why-donately-items {
+    gap: 20px;
+}
+
+.why-donately-item {
+    background-color: #f6f9fa;
+    padding: 36px;
+}
+
+/* on average related styles */
+.on-average-section {
+    background-color: #2b3539;
+    padding: 126px 0 126px 0;
+
+}
+
+.on-average-continer {
+    margin: 0 470px 0 470px;
+}
+
+.on-average-title {
+    color: #46d89f;
+}
+
+.other-title {
+    color: white;
+}
+
+.started-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #46d89f;
+    border: 1px solid #46d89f;
+    background-color: #2b3539;
+    letter-spacing: .02rem;
+    border-radius: .25rem;
+    min-width: 10rem;
+    padding: .85rem 1.5rem .75rem;
+    font-size: .9rem;
+    font-weight: 600;
+}
+
+.sub-title {
+    color: white;
+}
+
+.mr-title {
+    color: #46d89f;
+}
+/* My update elated styles */
+
